@@ -1,6 +1,6 @@
 <a href="https://www.microchip.com" rel="nofollow"><img src="images/microchip.png" alt="MCHP" width="300"/></a>
 
-# Getting Started with the Digital-to-Analog Convertor (DAC) Using the AVR64DD32 Microcontroller
+# Getting Started with the Digital-to-Analog Convertor (DAC) Using AVR64DD32
 
 <br>The repository contains four MPLAB® X projects:
 
@@ -59,7 +59,7 @@ The following configurations must be made for this project:
 ### 1.3 Summary
 
 This example represents a basic functionality of the DAC peripheral, which is used to generate a constant signal.<br><br>
-[Back to top](#getting-started-with-the-digital-to-analog-convertor-dac-using-the-avr64dd32-microcontroller)<br>
+[Back to top](#getting-started-with-the-digital-to-analog-convertor-dac-using-avr64dd32)<br>
 
 ## 2. Generating Sine Wave Signal Using the 10-Bit DAC
 
@@ -87,7 +87,7 @@ The following configurations must be made for this project:
 ### 2.3 Summary
 
 This example represents a basic functionality of the DAC peripheral, which is used to generate a sine wave signal by setting the output in a loop.<br><br>
-[Back to top](#getting-started-with-the-digital-to-analog-convertor-dac-using-the-avr64dd32-microcontroller)<br>
+[Back to top](#getting-started-with-the-digital-to-analog-convertor-dac-using-avr64dd32)<br>
 
 ## 3. Generating Amplitude Modulated Signal Using the 10-Bit DAC
 
@@ -124,7 +124,7 @@ The following configurations must be made for this project:
 ### 3.3 Summary
 
 This example represents a basic functionality of the DAC peripheral, which is used to generate an amplitude modulated signal using an external signal.<br><br>
-[Back to top](#getting-started-with-the-digital-to-analog-convertor-dac-using-the-avr64dd32-microcontroller)<br>
+[Back to top](#getting-started-with-the-digital-to-analog-convertor-dac-using-avr64dd32)<br>
 
 ## 4. Reading the DAC Internally with the ADC
 
@@ -157,7 +157,7 @@ The following configurations must be made for this project:
 ### 4.3 Summary
 
 This example represents a basic functionality of the DAC peripheral. The ADC peripheral reads the value from a step-by-step incremented value for the DAC peripheral.<br><br>
-[Back to top](#getting-started-with-the-digital-to-analog-convertor-dac-using-the-avr64dd32-microcontroller)<br>
+[Back to top](#getting-started-with-the-digital-to-analog-convertor-dac-using-avr64dd32)<br>
 
 ## How to Program the Curiosity Nano Board
 
@@ -194,4 +194,4 @@ This chapter shows how to use the MPLAB® X IDE to program an AVR® device with 
 - [Back to 2. Generating Sine Wave Signal](#2-generating-sine-wave-signal-using-the-10-bit-dac)
 - [Back to 3. Generating Amplitude Modulated Signal](#3-generating-amplitude-modulated-signal-using-the-10-bit-dac)
 - [Back to 4. Reading DAC with ADC](#4-reading-the-dac-internally-with-the-adc)
-- [Back to top](#getting-started-with-the-digital-to-analog-convertor-dac-using-the-avr64dd32-microcontroller)
+- [Back to top](#getting-started-with-the-digital-to-analog-convertor-dac-using-avr64dd32)
