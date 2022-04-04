@@ -43,10 +43,9 @@
         "keywords": [
             "DAC",
             "Getting Started",
-            "Amplitude Modulated Signal",
-            "Constant Signal",
-            "Sine Wave Signal",
-            "Conversion"
+            "Bare Metal",
+            "Signal Sampling",
+            "Signal Processing"
         ],
         "additionalData": {
             "longDescription": {
